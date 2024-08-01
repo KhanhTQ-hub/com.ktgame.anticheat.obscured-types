@@ -1,0 +1,14 @@
+{
+    "name": "com.ktgame.anticheat.obscured-types",
+    "version": "1.0.0",
+    "displayName": "com.ktgame.anticheat.obscured-types",
+    "description": "Preventing memory cheats",
+    "author": {
+        "name": "ktgame",
+        "email": "khanhquang0912qh@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+}

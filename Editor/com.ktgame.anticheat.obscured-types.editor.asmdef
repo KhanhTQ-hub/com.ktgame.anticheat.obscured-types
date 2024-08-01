@@ -1,0 +1,19 @@
+{
+    "name": "com.ktgame.anticheat.obscured-types.editor",
+    "rootNamespace": "com.ktgame.anticheat.obscured_types.editor",
+    "references": [
+        "com.unimob.anticheat.obscured-types",
+        "com.ktgame.anticheat.obscured-types"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
